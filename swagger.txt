@@ -1,0 +1,4 @@
+Swagger es un paquete que se instala por npm swagger-ui-express o algo así, sirve para crear el portal de 
+documentación del código, y se hace a través del archivo swagger.txt, donde se ponen algunas propiedades y luego
+dntro del path se pone uno a uno el path o parte del sitio con algunas propiedades y estructuras
+que permiten incluso hacer pruebas del código.
